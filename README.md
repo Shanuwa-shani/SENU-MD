@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
+ 
  <p align="center">
   <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">SENU MD</h1>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
 </p>
 
 <p align="center">
