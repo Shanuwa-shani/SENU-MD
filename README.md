@@ -6,7 +6,7 @@
   <img src="https://readme-typing-
 
 <p align="center">
-  <img src="" alt="Main Graphic" />
+  <img src="https://files.catbox.moe/d0xt6m.jpg" alt="Main Graphic" />
 </p>
 
 <p align="center">
