@@ -22,29 +22,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Senura-md-web/SENU-MD=followers">
-    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/Senura-md-web/SENU-MD/stargazers/">
-    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
-  </a>
-  <a href="https://github.com/Senura-md-web/SENU-MD/network/members">
-    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?color=red&style=for-the-badge&logo=git" alt="Forks" />
-  </a>
-  <a href="https://github.com/Senura-md-web/SENU-MD/watchers">
-    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
-  </a>
-  <a href="https://github.com/Senura-md-web/SENU-MD/">
-    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?style=for-the-badge&color=orange" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/Senura-md-web/SENU-MD/graphs/commit-activity">
-    <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow?style=for-the-badge" alt="Maintenance" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
-</p>
 
 <h2 align="center">🚀 Features</h2>
 
