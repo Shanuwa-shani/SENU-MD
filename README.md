@@ -64,12 +64,6 @@
 
 
 </a>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
-</p>
-
-
 <p align="center">
   🌟 *Your support keeps this project alive! Thank you for forking, starring, and sharing it with others!* 🌟
 </p>
