@@ -60,14 +60,14 @@
 
 <h3 align="left">1️⃣ Fork the Repo</h3>
 <p align="left">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/fork">
+  <a href="https://github.com/Senura-md-web/SENU-MD/fork">
     <img src="https://img.shields.io/badge/Fork%20Repo-black?style=for-the-badge&logo=github" alt="Fork Button" />
   </a>
 </p>
 
 <h3 align="left">2️⃣ Download the ZIP File</h3>
 <p align="left">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/archive/refs/heads/main.zip">
+  <a href="https://github.com/Senura-md-web/SENU-MD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
   </a>
 </p>
@@ -75,7 +75,7 @@
 
 ### Get Your Session ID
 <p align="center">
-  <a href="https://creepy-session.onrender.com" target="_blank">
+  <a href="Get session id genereter" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-ID-blue?style=for-the-badge&logo=key" alt="Get Session ID" />
   </a>
 </p>
@@ -103,7 +103,7 @@
 ---
 
 ### Deploy in Replit  
-<a href="https://repl.it/github.com/DannyTech20/CREEPY_MD-V1" target="_blank">
+<a href="https://repl.it/https://github.com/Senura-md-web/SENU-MD" target="_blank">
   <img src="https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit" alt="Deploy in Replit" />
 </a>
 
@@ -134,7 +134,7 @@
 
 <h2 align="center">📲 Join the Community</h2>
 
-<a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r" target="_blank">
+<a href="" target="_blank">
   <img src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png" alt="Join WhatsApp" />
 </a>
 
@@ -145,10 +145,10 @@
 <h2 align="center">🎉 Thank You, My Supporters!</h2>
 
 <p align="center">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers">
+  <a href="https://github.com/Senura-md-web/SENU-MD/stargazers">
     <img src="https://img.shields.io/badge/Stars-User%20List-blue?style=for-the-badge&logo=starship" alt="Starred Users" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members">
+  <a href="https://github.com/Senura-md-web/SENU-MD/network/members">
     <img src="https://img.shields.io/badge/Forked%20By-User%20List-green?style=for-the-badge&logo=github" alt="Forked Users" />
   </a>
 </p>
