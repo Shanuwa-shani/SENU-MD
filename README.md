@@ -1,5 +1,5 @@
  <p align="center">
-  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏</h1>
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">SENU MD</h1>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/dcix8w.jpeg" alt="Main Graphic" />
+  <img src="" alt="Main Graphic" />
 </p>
 
 <p align="center">
