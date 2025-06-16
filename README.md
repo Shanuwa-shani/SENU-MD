@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DannyTech20?tab=followers">
+  <a href="https://github.com/Senura-md-web/SENU-MD=followers">
     <img src="https://img.shields.io/github/followers/DannyTech20?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
   </a>
   <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers/">
