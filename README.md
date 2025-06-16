@@ -23,21 +23,21 @@
 
 <p align="center">
   <a href="https://github.com/Senura-md-web/SENU-MD=followers">
-    <img src="https://img.shields.io/github/followers/DannyTech20?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers/">
-    <img src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
+  <a href="https://github.com/Senura-md-web/SENU-MD/stargazers/">
+    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members">
-    <img src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=for-the-badge&logo=git" alt="Forks" />
+  <a href="https://github.com/Senura-md-web/SENU-MD/network/members">
+    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?color=red&style=for-the-badge&logo=git" alt="Forks" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/watchers">
-    <img src="https://img.shields.io/github/watchers/DannyTech20/CREEPY_MD-V1?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
+  <a href="https://github.com/Senura-md-web/SENU-MD/watchers">
+    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/">
-    <img src="https://img.shields.io/github/repo-size/DannyTech20/CREEPY_MD-V1?style=for-the-badge&color=orange" alt="Repo Size" />
+  <a href="https://github.com/Senura-md-web/SENU-MD/">
+    <img src="https://img.shields.io/github.com/Senura-md-web/SENU-MD?style=for-the-badge&color=orange" alt="Repo Size" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/graphs/commit-activity">
+  <a href="https://github.com/Senura-md-web/SENU-MD/graphs/commit-activity">
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow?style=for-the-badge" alt="Maintenance" />
   </a>
 </p>
