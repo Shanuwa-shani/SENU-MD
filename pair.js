@@ -28,8 +28,8 @@ function removeFolder(folderPath) {
 async function uploadCredsToMega(credsPath) {
     try {
         const storage = await new Storage({
-  email: 'sdineth574@gmail.com', 
-  password: 'senuradineth123'
+  email: 'shanushani20061126@gmail.com, 
+  password: 'Parves683'
 }).ready
         console.log('Mega storage initialized.');
         if (!fs.existsSync(credsPath)) {
@@ -112,7 +112,7 @@ router.get('/', async (req, res) => {
                 }
             });
         } catch (error) {
-            console.error('Error in Senu_Md_Pair:', error);
+            console.error('Error in Quveen_shani_Pair:', error);
             removeFolder(sessionDir);
             if (!res.headersSent) {
                 res.status(503).send({ code: 'Service Unavailable' });
